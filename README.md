@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SkillSwap
 
 SkillSwap is a MERN stack web platform designed to facilitate collaborative learning and skill development through peer-to-peer guidance. The platform emphasizes reciprocal knowledge exchange, industrial-grade security features, and user-friendly interfaces to create a dynamic learning environment.
@@ -148,3 +149,6 @@ sudo docker-compose down --rmi all
 ```
 
 Now you can run the website on `http://localhost:5173`
+=======
+# SkillSwap
+>>>>>>> bdaf28aea4af21059f732350426f985c3604c126
